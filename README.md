@@ -1,15 +1,16 @@
-# Linux Install Scripts 
-   - Freelancer (2003)
-   - Discovery Freelancer 5.3.2 Mod
-<HR>
+# Get the needed files
+## 1. Save game files to your *~/Downloads* directory
 
-## 1. Download game files to your *~/Downloads* directory
 [<img width="371" height="79" alt="FL" src="https://github.com/user-attachments/assets/1c19c857-028a-4ef4-96fa-6904695d436f" />](https://archive.org/download/Freelancer_201807/Freelancer.iso) <br>
 [<img width="371" height="75" alt="DSCFL" src="https://github.com/user-attachments/assets/c0bc123b-c555-458b-b94b-013aa819e3f0" />](https://discoverygc.com/files/discovery_5.3.2.exe) <br>
 
-## 2. Download scripts to your *~/* directory
-   - Copy/Download [Freelancer Install Script](freelancer_install.sh) 
-   - Copy/Download [Discovery Freelancer Mod Install Script](discovery_install.sh) 
+## 2. Save scripts to your *~/* directory
+
+   - Create text a text file named ***freelance_install.sh***
+     - Copy the code from [here](freelancer_install.sh) and paste into the file you just created.
+<br></br>
+   - Create text a text file named ***discovery_install.sh***
+     - Copy the code from [here](discovery_install.sh) and paste into the file you just created.
 
 ## 3. Install Freelancer
  - Be logged in are your normal user. ***DO NOT RUN THESE SCRIPTS AS SU OR ROOT***
