@@ -8,8 +8,8 @@
 [<img width="371" height="75" alt="DSCFL" src="https://github.com/user-attachments/assets/c0bc123b-c555-458b-b94b-013aa819e3f0" />](https://discoverygc.com/files/discovery_5.3.2.exe) <br>
 
 ## 2. Download scripts to your *~/* directory
-   - Copy/Download [Freelancer Install Script](freelancer_install.sh)
-   - Copy/Download [Discovery Freelancer Mod Install Script](discovery_install.sh)
+   - Copy/Download [Freelancer Install Script](freelancer_install.sh) 
+   - Copy/Download [Discovery Freelancer Mod Install Script](discovery_install.sh) 
 
 ## 3. Install Freelancer
  - Be logged in are your normal user. ***DO NOT RUN THESE SCRIPTS AS SU OR ROOT***
