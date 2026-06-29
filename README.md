@@ -18,3 +18,12 @@
 ## 3. Install Discovery Freelancer Mod
  - Run `bash discovery_install.sh`
  - Let the script run and answer ***YES*** to all default questions and install anything that pops up to their default settings.
+
+## 4. Launching Discovery Freelancer
+ - To launch the game you will need to to go the game directory which is
+    - `$HOME/Freelancer/drive_c/users/$USER/AppData/Local/Discovery Freelancer 5.3.2`
+ - From there type
+    - `wine DSLauncher.exe`
+ - Once the games launches click the **Apply Patch** link on the right side menu to upgrade to the latest version available.
+ - This will also generate an icon on the menu bar. You can simply right click and pin it to make it easier to launch the game next time.
+    - I'd recommend launching the game from this pinned icon before creating characters. If not, characters created from the CLI launch of the game may not show in the game launched from the pinned icon.
