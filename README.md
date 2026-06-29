@@ -1,11 +1,13 @@
-# Install scripts for linix distros
+# Freelancer install scripts for linix distros
 This script will detect what your distro is based on from the list below and download the correct files needed automaticlly
    - Arch
    - Fedora
    - Ubuntu
    - Debian
 
-# Get the needed files
+<HR>
+
+# Getting the needed files
 ## 1. Save game files to your *~/Downloads* directory
 
 [<img width="371" height="79" alt="FL" src="https://github.com/user-attachments/assets/1c19c857-028a-4ef4-96fa-6904695d436f" />](https://archive.org/download/Freelancer_201807/Freelancer.iso) <br>
