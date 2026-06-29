@@ -1,3 +1,10 @@
+# Install scripts for linix distros
+This script will detect what your distro is based on from the list below and download the correct files needed automaticlly
+   - Arch
+   - Fedora
+   - Ubuntu
+   - Debian
+
 # Get the needed files
 ## 1. Save game files to your *~/Downloads* directory
 
